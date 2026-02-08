@@ -203,15 +203,3 @@ Commands yang dikirim dari ESP32-CAM ke Robot:
 3. **Range:**
    - Bluetooth Classic range ~10 meter
    - Pastikan line of sight untuk hasil terbaik
-
-## 📄 License
-
-MIT License - Bebas digunakan dan dimodifikasi
-
-## 👤 Author
-
-arilix - 2026
-
----
-
-**Happy Following! 🤖📷**
